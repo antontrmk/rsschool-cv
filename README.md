@@ -1,1 +1,0 @@
-https://antontrmk.github.io/rsschool-cv/cv
