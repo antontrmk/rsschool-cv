@@ -6,7 +6,7 @@
 
 ## Profile
 
-I have a year of work experiense as a front-end developer for a company in Minsk and about 10 years of self-employment experience as a designer\front-end developer\project manager. Have a strong HTML\CSS knowledge, very good knowledge of Figma\Photoshop and UI\UX web-design, basic JavaScript knowledge. Work directly with English-speaking customers and had a chance to work and polish my English in the USA so able to communicate in English quite well.
+I have a year of work experiense as a front-end developer for a company in Minsk and about 10 years of self-employment experience as a designer\front-end developer\project manager. Have a strong HTML\CSS knowledge, good knowledge of Figma\Photoshop and UI\UX web-design, basic JavaScript knowledge. Work directly with English-speaking customers and had a chance to work and polish my English in the USA so able to communicate in English quite well.
 
 My goal is to polish HTML\CSS skills to the latest best practices, learn JavaScript and React to become a professional front-end developer. I'd also like to work with large teams to improve my communication and project management skills. 
 
