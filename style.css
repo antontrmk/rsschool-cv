@@ -21,8 +21,12 @@ header {
   margin-top: 0px;
 }
 
-.profile-info p {
-  margin: 0px;
+.profile-info ul {
+  padding: 0px;
+}
+
+.profile-info ul li {
+  list-style-type: none;
 }
 
 .wrapper {
